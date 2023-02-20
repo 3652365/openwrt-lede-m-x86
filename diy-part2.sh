@@ -23,4 +23,4 @@ git clone https://github.com/netdata/netdata.git package/tt/netdata
 ##!git clone https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic.git package/tt/luci-app-unblockneteasemusic
 #git clone https://github.com/small-5/luci-app-adblock-plus.git package/tt/luci-app-adblock-plus
 #git clone https://github.com/kenzok8/small.git package/tt/small
-##!git clone https://github.com/fw876/helloworld.git package/tt/helloworld
+git clone https://github.com/fw876/helloworld.git package/tt/helloworld
