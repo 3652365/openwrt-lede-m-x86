@@ -40,6 +40,10 @@ jobs:
     runs-on: ubuntu-22.04
 
     steps:
+    - name: steps 1 Check space usage
+      if: (!cancelled())
+      run: df -hT
+      
     - name: Checkout
       uses: actions/checkout@main
 
